@@ -1,3 +1,4 @@
+"Aplicação em python3"
 class Individual:
     counter = 0
     genotypes = ("AA","Ai","BB","Bi","AB","ii")
